@@ -1,0 +1,8 @@
+1.Press the arrowskeys to move our girl Maleficient.
+	  2.Jump over cacti and flamingos.
+	  3.Beware of fire thrown by hovering alien spaceships.
+	  4. Also beware of aerial balloons
+	  5.Deflect them by bending, by pressing the down arrowkey
+	  
+	        ****Press any key to go back to main menu****
+
